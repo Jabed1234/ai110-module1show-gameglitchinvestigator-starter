@@ -7,6 +7,9 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
   (for example: "the hints were backwards").
+1. The game always ends with one attempt left. I expected to use all of my 8 attempt but only used 7.
+2. The game's hint was inaccurate. It would say higher or lower, so I expected the output to be inbetween, however, it was completely outside of the bound.
+3. When the game ends and you press new game, it does not load a new game
 
 ---
 
